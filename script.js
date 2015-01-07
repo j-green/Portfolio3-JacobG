@@ -7,6 +7,8 @@
 
 $("document").ready(function(){
     $(".practice").css("background-color", "yellow");
+    $('p:first').css({"background-color": "yellow", "color": "white" });
+     $('p:last').css({"background-color": "purple", "color": "white" });
 });
 
 
