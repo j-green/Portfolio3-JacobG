@@ -11,9 +11,9 @@ $("document").ready(function(){
     $('#superhumans').accordion({header:"h3"});
     $('superhumans').css('width', '400px');
     
-    $('h3').css('background', 'cyan')
+    $('h3').css('background', 'cyan');
     
-    
+    $('.2').css('background', 'cyan');
     
     $('p:first').css({"background-color": "yellow", "color": "black" });
     
